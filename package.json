@@ -1,0 +1,23 @@
+{
+  "name": "@nagate_bu/works-cli",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "bin": {
+    "works": "lib/index.js"
+  },
+  "author": "NagateBu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "mustache": "^4.2.0"
+  }
+}
